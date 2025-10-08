@@ -29,6 +29,3 @@ Get real-time weather information for any city around the world with a simple an
 
 ## 🏆⚠️ Note
 This project was built for **learning and fun purposes only**. The app uses a public API key, so it’s not intended for production use.
-
-
-This project was built for **learning and fun purposes only**. The app uses a public API key, so it’s not intended for production use.
